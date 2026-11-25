@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Dagus%20Ansi&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Security-focused%20software%20engineer&descSize=18&descAlignY=56&descColor=cbd5e1" width="100%" alt="Dagus Ansi, security-focused software engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=0EA5E9&center=true&vCenter=true&width=640&lines=I+build+mobile+apps%2C+web+platforms+and+the+backends+behind+them.;20+apps+live+on+the+App+Store+and+Google+Play.;Security+is+part+of+the+build%2C+not+an+audit+at+the+end." alt="I build mobile apps, web platforms and the backends behind them. 20 apps live on the App Store and Google Play. Security is part of the build, not an audit at the end."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=0EA5E9&center=true&vCenter=true&width=640&lines=I+build+mobile+apps%2C+web+platforms+and+the+backends+behind+them.;19+apps+live+on+the+App+Store+and+Google+Play.;Security+is+part+of+the+build%2C+not+an+audit+at+the+end." alt="I build mobile apps, web platforms and the backends behind them. 19 apps live on the App Store and Google Play. Security is part of the build, not an audit at the end."/>
 
 <a href="https://4c3x.github.io"><img src="https://img.shields.io/badge/Portfolio-4c3x.github.io-171716?style=for-the-badge" alt="Portfolio: 4c3x.github.io"/></a>
 <a href="https://www.linkedin.com/in/dagusansi"><img src="https://img.shields.io/badge/LinkedIn-dagusansi-0A66C2?style=for-the-badge" alt="LinkedIn: dagusansi"/></a>
@@ -36,7 +36,7 @@ Most of my code lives in private client repos, so this page shows what's live in
 
 ## Apps I've shipped
 
-20 apps, live right now. Tap an icon to open the store listing.
+19 apps, live right now. Tap an icon to open the store listing.
 
 <table>
 <tr>
@@ -64,7 +64,6 @@ Most of my code lives in private client repos, so this page shows what's live in
 <td align="center"><a href="https://apps.apple.com/gb/app/id6757637507"><img src="assets/apps/diggerbyday.jpg" width="64" alt="Digger by Day icon"/></a><br/><b>Digger by Day</b><br/><sub>Excavator hire</sub><br/><sub><a href="https://apps.apple.com/gb/app/id6757637507">iOS</a></sub></td>
 <td align="center"><a href="https://apps.apple.com/gb/app/id6761655998"><img src="assets/apps/pathlyworker.jpg" width="64" alt="Pathly Worker icon"/></a><br/><b>Pathly Worker</b><br/><sub>For support workers</sub><br/><sub><a href="https://apps.apple.com/gb/app/id6761655998">iOS</a></sub></td>
 <td align="center"><a href="https://play.google.com/store/apps/details?id=com.afri.routa"><img src="assets/apps/afriroute.png" width="64" alt="Afri-Routa icon"/></a><br/><b>Afri-Routa</b><br/><sub>African food &amp; fashion, UK</sub><br/><sub><a href="https://play.google.com/store/apps/details?id=com.afri.routa">Android</a></sub></td>
-<td align="center"><a href="https://play.google.com/store/apps/details?id=com.gatepass.app"><img src="assets/apps/gatepass.png" width="64" alt="GatePass icon"/></a><br/><b>GatePass</b><br/><sub>Smart gate access</sub><br/><sub><a href="https://play.google.com/store/apps/details?id=com.gatepass.app">Android</a></sub></td>
 <td align="center"><a href="https://play.google.com/store/apps/details?id=com.healthserviceafrica.hsa"><img src="assets/apps/hsa.jpg" width="64" alt="Health Service Africa icon"/></a><br/><b>Health Service Africa</b><br/><sub>Book a doctor online</sub><br/><sub><a href="https://play.google.com/store/apps/details?id=com.healthserviceafrica.hsa">Android</a></sub></td>
 </tr>
 </table>
