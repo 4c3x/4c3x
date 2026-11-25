@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=0EA5E9&center=true&vCenter=true&width=640&lines=I+build+mobile+apps%2C+web+platforms+and+the+backends+behind+them.;20+apps+live+on+the+App+Store+and+Google+Play.;Security+is+part+of+the+build%2C+not+an+audit+at+the+end." alt="I build mobile apps, web platforms and the backends behind them. 20 apps live on the App Store and Google Play. Security is part of the build, not an audit at the end."/>
 
+<a href="https://4c3x.github.io"><img src="https://img.shields.io/badge/Portfolio-4c3x.github.io-171716?style=for-the-badge" alt="Portfolio: 4c3x.github.io"/></a>
 <a href="https://www.linkedin.com/in/dagusansi"><img src="https://img.shields.io/badge/LinkedIn-dagusansi-0A66C2?style=for-the-badge" alt="LinkedIn: dagusansi"/></a>
 <a href="mailto:dagusansi21@gmail.com"><img src="https://img.shields.io/badge/Email-dagusansi21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: dagusansi21@gmail.com"/></a>
 <img src="https://img.shields.io/badge/Open_to-remote_roles_%26_freelance-16A34A?style=for-the-badge" alt="Open to remote roles and freelance"/>
@@ -95,6 +96,6 @@ B.Tech in Cybersecurity Science (Federal University of Technology, Minna) · IBM
 
 ## Work with me
 
-I'm open to **remote engineering roles** and **freelance projects**: mobile apps, web platforms, Supabase and Postgres backends, and security reviews for apps that are about to launch. If you have something that needs to ship and needs to be safe, email me at **dagusansi21@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/dagusansi).
+I'm open to **remote engineering roles** and **freelance projects**: mobile apps, web platforms, Supabase and Postgres backends, and security reviews for apps that are about to launch. If you have something that needs to ship and needs to be safe, email me at **dagusansi21@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/dagusansi). Everything above is also on [my portfolio](https://4c3x.github.io), with screenshots of every app.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%" alt=""/>
